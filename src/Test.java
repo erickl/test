@@ -10,6 +10,9 @@ public class Test {
 
 		if((u >= 3 || v >= 3) && (u <= 1000 && v <= 1000)) // Can't have edge between node 1 & 2.
 			System.out.print(u + " " + v);
+		
+		int a = 5;
+		System.out.println(a);
 
 	}
 
